@@ -5,6 +5,7 @@ date: 2023-08-15 08:37 +0000
 categories: [Resources, Thonny]
 tags: [python, thonny, ide, resources]
 img_path: /assets/img/posts/
+pin: true
 ---
 
 # Thonny
