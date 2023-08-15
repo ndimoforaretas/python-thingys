@@ -20,7 +20,7 @@ timezone: UTC +2 Central European Summer Time
 
 title: Python Thingys # the main title
 
-tagline: Simple implementation steps # it will display as the sub-title
+tagline: My Python Journey # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   This is a private blog of my journey in learning Python. It is a collection of my notes and important things I learned along the way.

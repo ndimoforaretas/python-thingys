@@ -2,7 +2,7 @@
 layout: post
 title: 100 Days Of Python - Day 1
 date: 2023-08-15 08:06 +0000
-categories: [Python, Day 1]
+categories: [Python Tutorial, Day 1]
 tags: [python, printing, variables, variable naming] # TAG names should always be lowercase
 ---
 
