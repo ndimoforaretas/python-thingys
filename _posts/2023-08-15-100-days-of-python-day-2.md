@@ -14,6 +14,7 @@ tags:
     type checking,
     bmi calculator,
     tip calculator,
+    day 2,
   ]
 ---
 
