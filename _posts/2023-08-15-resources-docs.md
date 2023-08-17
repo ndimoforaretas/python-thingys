@@ -3,7 +3,7 @@ layout: post
 title: Docs
 date: 2023-08-15 08:37 +0000
 categories: [Resources, Docs]
-tags: [python, thonny, ide, resources]
+tags: [python, thonny, ide, resources, askpython]
 img_path: /assets/img/posts/
 pin: true
 ---
@@ -21,3 +21,10 @@ _Python Documentation_
 
 ![Thonny](thonny.png)
 _Thonny IDE download page_
+
+## AskPython
+
+- <a href="https://www.askpython.com" target="_blank">AskPython</a> is a Python community where you can ask questions and get answers from other Pythonistas.
+
+![AskPython](askpython.png)
+_AskPython home page_

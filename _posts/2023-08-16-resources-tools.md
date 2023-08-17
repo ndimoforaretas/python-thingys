@@ -3,7 +3,7 @@ layout: post
 title: Tools
 date: 2023-08-16 06:35 +0000
 categories: [Resources, Tools]
-tags: [web dev, tools, ascii art]
+tags: [web dev, tools, ascii art, emoji]
 img_path: /assets/img/posts/
 pin: true
 ---
@@ -14,7 +14,15 @@ pin: true
 
 <a href="https://www.asciiart.eu/" target="_blank">The ASCII Art EU</a> home page.
 
+![ASCII Art EU](ascii-eu.png)
+_ASCII Art EU home page_
+
+---
+
 <a href="https://www.ascii.co.uk/art" target="_blank">The ASCII Art UK</a> table page.
+
+![ASCII Art UK](ascii-uk.png)
+_ASCII Art UK table page_
 
 `ASCII art` is a graphic design technique that uses computers for presentation and consists of pictures pieced together from the 95 printable (from a total of 128) characters defined by the ASCII Standard from 1963 and ASCII compliant character sets with proprietary extended characters (beyond the 128 characters of standard 7-bit ASCII).
 
@@ -64,3 +72,10 @@ Most examples of ASCII art require a fixed-width font (non-proportional fonts, a
 
                                                                           dp
 ```
+
+## Emoji
+
+<a href="https://emojipedia.org/" target="_blank">Emojipedia</a> is an emoji reference website which documents the meaning and common usage of emoji characters in the Unicode Standard. The site was founded in 2013 by Jeremy Burge and includes definitions, usage examples, and emoji images from vendors such as Apple, Google, Microsoft, Samsung, and others.
+
+![Emojipedia](emojipedia.png)
+_Emojipedia home page_
