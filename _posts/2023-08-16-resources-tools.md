@@ -86,5 +86,5 @@ _Emojipedia home page_
 
 <a href="https://haveibeenpwned.com/" target="_blank">Have I been pwned?</a> (HIBP) is a website that allows internet users to check whether their personal data has been compromised by data breaches. The service collects and analyzes hundreds of database dumps and pastes containing information about billions of leaked accounts, and allows users to search for their own information by entering their username or email address. Users can also sign up to be notified if their email address appears in future dumps. The site has been widely touted as a valuable resource for internet users wishing to protect their own security and privacy.
 
-![Have I been pwned?](have-i-been-pwned.png)
+![Have I been pwned?](haveibeenpwned.png)
 _Have I been pwned? home page_
