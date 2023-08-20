@@ -5,7 +5,6 @@ date: 2023-08-15 08:23 +0000
 categories: [Python Tutorial, Day 2]
 tags:
   [
-    python,
     data types,
     string,
     integer,

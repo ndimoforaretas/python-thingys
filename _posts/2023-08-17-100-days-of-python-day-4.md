@@ -14,6 +14,7 @@ tags:
     treasure map,
     banker roulette,
     rock paper scissors,
+    day 4,
   ]
 ---
 

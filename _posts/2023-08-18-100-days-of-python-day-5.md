@@ -12,6 +12,7 @@ tags:
     adding even numbers,
     fizzbuzz,
     password generator,
+    day 5,
   ]
 ---
 

@@ -14,14 +14,14 @@ pin: true
 
 <a href="https://www.asciiart.eu/" target="_blank">The ASCII Art EU</a> home page.
 
-![ASCII Art EU](ascii-eu.png)
+![ASCII Art EU](ascii-eu.png){: .shadow}
 _ASCII Art EU home page_
 
 ---
 
 <a href="https://www.ascii.co.uk/art" target="_blank">The ASCII Art UK</a> table page.
 
-![ASCII Art UK](ascii-uk.png)
+![ASCII Art UK](ascii-uk.png){: .shadow}
 _ASCII Art UK table page_
 
 `ASCII art` is a graphic design technique that uses computers for presentation and consists of pictures pieced together from the 95 printable (from a total of 128) characters defined by the ASCII Standard from 1963 and ASCII compliant character sets with proprietary extended characters (beyond the 128 characters of standard 7-bit ASCII).
@@ -77,7 +77,7 @@ Most examples of ASCII art require a fixed-width font (non-proportional fonts, a
 
 <a href="https://emojipedia.org/" target="_blank">Emojipedia</a> is an emoji reference website which documents the meaning and common usage of emoji characters in the Unicode Standard. The site was founded in 2013 by Jeremy Burge and includes definitions, usage examples, and emoji images from vendors such as Apple, Google, Microsoft, Samsung, and others.
 
-![Emojipedia](emojipedia.png)
+![Emojipedia](emojipedia.png){: .shadow}
 _Emojipedia home page_
 
 ---
@@ -86,5 +86,16 @@ _Emojipedia home page_
 
 <a href="https://haveibeenpwned.com/" target="_blank">Have I been pwned?</a> (HIBP) is a website that allows internet users to check whether their personal data has been compromised by data breaches. The service collects and analyzes hundreds of database dumps and pastes containing information about billions of leaked accounts, and allows users to search for their own information by entering their username or email address. Users can also sign up to be notified if their email address appears in future dumps. The site has been widely touted as a valuable resource for internet users wishing to protect their own security and privacy.
 
-![Have I been pwned?](haveibeenpwned.png)
+![Have I been pwned?](haveibeenpwned.png){: .shadow}
 _Have I been pwned? home page_
+
+---
+
+## Reeborg's World
+
+<a href="https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json#" target="_blank">Reeborg's World</a> is a website that allows you to learn Python programming by solving a series of challenges. It is a fun way to learn Python programming.
+
+![Reeborg's World](reeborgs-world.png){: .shadow}
+_Reeborg's World home page_
+
+---

@@ -1,18 +1,16 @@
 # About Python Thingys
 
-## Python Thingys
-
 This is a private blog of my journey in learning Python. It is a collection of my notes and important things I learned along the way.
 
 I hope you find it useful.
 
 {: .prompt-danger}
 
-> **Note:**
->
-> - The information on this site may not be suitable for beginners.
-> - I have a few years of JavaScript under my belt, so I tend to put mostly information that is new to me with my current programming knowledge level.
-> - I am still learning and I am still adding content to this site. 😊
+**Note:**
+
+- The information on this site may not be suitable for beginners.
+- I have a few years of JavaScript under my belt, so I tend to put mostly information that is new to me with my current programming knowledge level.
+- I am still learning and I am still adding content to this site. 😊 {: .alert .alert-warning}
 
 ---
 

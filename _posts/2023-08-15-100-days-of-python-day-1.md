@@ -3,7 +3,7 @@ layout: post
 title: 100 Days Of Python - Day 1
 date: 2023-08-15 08:06 +0000
 categories: [Python Tutorial, Day 1]
-tags: [python, printing, variables, variable naming, day 1]
+tags: [printing, variables, variable naming, day 1]
 ---
 
 # Python - Day 1
