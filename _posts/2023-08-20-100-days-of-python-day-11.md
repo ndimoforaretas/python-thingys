@@ -3,7 +3,7 @@ layout: post
 title: 100 Days Of Python - Day 11
 date: 2023-08-20 10:12 +0000
 categories: [Python Tutorial, Day 11]
-tags: [day 11]
+tags: [blackjack, day 11]
 ---
 
 ## Day 11
