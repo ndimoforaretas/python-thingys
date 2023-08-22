@@ -99,3 +99,10 @@ _Have I been pwned? home page_
 _Reeborg's World home page_
 
 ---
+
+## Pycharm Keyboard Shortcuts
+
+<a href="https://www.jetbrains.com/help/pycharm/mastering-keyboard-shortcuts.html" target="_blank">Pycharm Keyboard Shortcuts</a> is a website that allows you to learn Pycharm keyboard shortcuts.
+
+![Pycharm Keyboard Shortcuts](pycharm.png){: .shadow}
+_Pycharm Keyboard Shortcuts home page_
