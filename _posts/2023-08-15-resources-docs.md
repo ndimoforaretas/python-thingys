@@ -42,3 +42,10 @@ _Python built-in functions docs page_
 
 ![Pypi](pypi.png){: .shadow}
 _Pypi home page_
+
+## Open Trivia Database
+
+- <a href="https://opentdb.com" target="_blank">Open Trivia Database</a> is a free to use, user-contributed trivia question database. It contains over 4,000 verified trivia questions and answers.
+
+![Open Trivia Database](opentdb.png){: .shadow}
+_Open Trivia Database home page_

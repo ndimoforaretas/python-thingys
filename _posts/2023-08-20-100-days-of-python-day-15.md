@@ -10,29 +10,29 @@ tags: [day 15, installing python on ubuntu, installing pycharm on ubuntu]
 
 ## Setting up a local development environment
 
-### Installing Python on Ubuntu 22.04 using the terminal
+- Installing Python on Ubuntu 22.04 using the terminal
 
 ```bash
 sudo apt update
 sudo apt-get install python3 python3-dev
 ```
 
-Source: [How to Install Python 3.9 on Ubuntu 20.04](https://wiki.python.org/moin/BeginnersGuide/Download)
+**Source:** [How to Install Python 3.9 on Ubuntu 20.04](https://wiki.python.org/moin/BeginnersGuide/Download)
 
-### Installing Pycharm on Ubuntu 22.04 using the terminal
+- Installing Pycharm on Ubuntu 22.04 using the terminal
 
 ```bash
 sudo snap install pycharm-community --classic
 ```
 
-Source: [Install PyCharm on Ubuntu using the Snap Store | Snapcraft](https://www.jetbrains.com/help/pycharm/installation-guide.html#ccb90a48)
+**Source:** [Install PyCharm on Ubuntu using the Snap Store](https://www.jetbrains.com/help/pycharm/installation-guide.html#ccb90a48)
 
-## coffee machine
+## Coffee Machine
 
 {: .prompt-info}
 
 > ### Instructions
-
+>
 > Congratulations, you've got a job at Python Loves Coffee, a new coffee shop that's just opened up in town! Because Python loves coffee, you have to write a program that will work out the total cost of an order for coffee.
 >
 > ### Example Input
@@ -55,12 +55,14 @@ Source: [Install PyCharm on Ubuntu using the Snap Store | Snapcraft](https://www
 > That will be $2.50 please.
 > ```
 
-### Hint
+{: .prompt-tip}
 
-1. Think about what coffee types and extras you have and how much they cost.
-2. Check the data type of the different inputs you receive. If you want to use the test code below, `you can print(type(variable_name))` to see the type of variable you're working with.
-3. The `test` code contains `pass`. This is a keyword that does nothing at all. It's just a placeholder for where you might want to add some code in the future.
-4. If you want to use the test code, remember to indent all of your code after `if __name__ == "__main__":`
+> ### Hint
+>
+> 1. Think about what coffee types and extras you have and how much they cost.
+> 2. Check the data type of the different inputs you receive. If you want to use the test code below, `you can print(type(variable_name))` to see the type of variable you're working with.
+> 3. The `test` code contains `pass`. This is a keyword that does nothing at all. It's just a placeholder for where you might want to add some code in the future.
+> 4. If you want to use the test code, remember to indent all of your code after `if __name__ == "__main__":`
 
 ### Test Code
 

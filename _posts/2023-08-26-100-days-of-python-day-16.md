@@ -3,7 +3,14 @@ layout: post
 title: 100 Days Of Python - Day 16
 date: 2023-08-26 06:13 +0000
 categories: [Python Tutorial, Day 16]
-tags: [day 16]
+tags:
+  [
+    day 16,
+    procedural programming,
+    object oriented programming,
+    prettytable,
+    coffee machine(oop),
+  ]
 ---
 
 ## Day 16
