@@ -3,7 +3,7 @@ layout: post
 title: Docs
 date: 2023-08-15 08:37 +0000
 categories: [Resources, Docs]
-tags: [python, thonny, ide, resources, askpython]
+tags: [python, thonny, ide, resources, askpython, pypi]
 img_path: /assets/img/posts/
 pin: true
 ---
@@ -35,3 +35,10 @@ _AskPython home page_
 
 ![Python built-in functions](python-functions.png){: .shadow}
 _Python built-in functions docs page_
+
+## Pypi
+
+- <a href="https://pypi.org" target="_blank">Pypi</a> is the Python Package Index. It is a repository of software for the Python programming language. Like `npm` for **Node.js**, Pypi is the place to go to find Python packages published by the Python community.
+
+![Pypi](pypi.png){: .shadow}
+_Pypi home page_
