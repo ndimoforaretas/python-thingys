@@ -3,7 +3,18 @@ layout: post
 title: Tools
 date: 2023-08-16 06:35 +0000
 categories: [Resources, Tools]
-tags: [web dev, tools, ascii art, emoji]
+tags:
+  [
+    web dev,
+    tools,
+    ascii art,
+    emoji,
+    have i been pwned,
+    reeborg's world,
+    pycharm keyboard shortcuts,
+    trinket,
+    trinket color codes,
+  ]
 img_path: /assets/img/posts/
 pin: true
 ---
@@ -106,3 +117,21 @@ _Reeborg's World home page_
 
 ![Pycharm Keyboard Shortcuts](pycharm.png){: .shadow}
 _Pycharm Keyboard Shortcuts home page_
+
+---
+
+## Trinket
+
+<a href="https://trinket.io/" target="_blank">Trinket</a> is a website that allows you to learn Python programming by solving a series of challenges. It is a fun way to learn Python programming.
+
+![Trinket](trinket-home.png){: .shadow}
+_Trinket home page_
+
+---
+
+## Trinket Color Codes
+
+<a href="https://trinket.io/docs/colors" target="_blank">Trinket Color Codes</a> is a website that allows you to choose colors for your Python programs. You Click on a color to see its turtle name, CSS name, hex code, or RGB values.
+
+![Trinket Color Codes](trinket.png){: .shadow}
+_Trinket Color Codes home page_
