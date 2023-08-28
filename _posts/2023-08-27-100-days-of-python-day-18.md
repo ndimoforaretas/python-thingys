@@ -3,7 +3,7 @@ layout: post
 title: 100 Days Of Python - Day 18
 date: 2023-08-27 11:33 +0000
 categories: [Python Tutorial, Day 18]
-tags: [day 18]
+tags: [day 18, importing modules, installing packages, turtle graphics, tuples]
 ---
 
 ## Day 18
