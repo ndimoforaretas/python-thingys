@@ -49,3 +49,10 @@ _Pypi home page_
 
 ![Open Trivia Database](opentdb.png){: .shadow}
 _Open Trivia Database home page_
+
+## Pandas
+
+- <a href="https://pandas.pydata.org" target="_blank">Pandas</a> is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language.
+
+![Pandas](pandas.png){: .shadow}
+_Pandas home page_
