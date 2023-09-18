@@ -3,7 +3,7 @@ layout: post
 title: 100 Days Of Python - Day 26
 date: 2023-09-06 19:20 +0000
 categories: [Python Tutorial, Day 26]
-tags: [day 26]
+tags: [day 26, list comprehension, pandas, data frame, dictionary, nato alphabet]
 ---
 
 ## Day 26
