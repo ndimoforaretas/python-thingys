@@ -135,3 +135,5 @@ _Trinket home page_
 
 ![Trinket Color Codes](trinket.png){: .shadow}
 _Trinket Color Codes home page_
+
+`bundle exec jekyll post 100 Days Of Python - Day 32`
