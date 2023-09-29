@@ -3,7 +3,14 @@ layout: post
 title: 100 Days Of Python - Day 32
 date: 2023-09-28 19:09 +0000
 categories: [Python Tutorial, Day 32]
-tags: [day 32, email smtplib, datetime]
+tags:
+  [
+    day 32,
+    email smtplib,
+    datetime,
+    birthday wisher app,
+    monday motivation project,
+  ]
 ---
 
 ## Day 32
