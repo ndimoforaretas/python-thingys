@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 100 Days Of Python - Day 37
+title: 100 Days Of Python - Day 34
 date: 2023-10-03 06:26 +0000
-categories: [Python Tutorial, Day 37]
-tags: [day 37, selenium, web automation, cookie clicker]
+categories: [Python Tutorial, Day 34]
+tags: [day 34, selenium, web automation, cookie clicker]
 ---
 
 ## Day 37
