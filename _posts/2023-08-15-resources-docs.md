@@ -56,3 +56,6 @@ _Open Trivia Database home page_
 
 ![Pandas](pandas.png){: .shadow}
 _Pandas home page_
+
+- Requests api tool
+- Selenium (https://selenium-python.readthedocs.io/)
